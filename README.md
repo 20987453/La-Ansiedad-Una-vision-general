@@ -101,7 +101,7 @@
 </section>
 
 <footer>
-  Página diseñada para información educativa sobre los trastornos de ansiedad. &copy; 2025
+  Página diseñada para información educativa sobre los trastornos de ansiedad. Realizado por Televisa &copy; 2025
 </footer>
 
 </body>
